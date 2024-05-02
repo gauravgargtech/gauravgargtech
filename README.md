@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgargtech" alt="gauravgargtech" /> </p>
 
-- 💬 Ask me about **php, node, react, afterlife**
+- 💬 Ask me about **Node, React, Typescript or afterlife**
 
 - 📫 How to reach me **gauravgargtech2@gmail.com**
 
